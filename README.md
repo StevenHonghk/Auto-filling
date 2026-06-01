@@ -1,6 +1,6 @@
 [TAMPERMONKEY.md](https://github.com/user-attachments/files/28460028/TAMPERMONKEY.md)
 # 通用版油猴顺序填空脚本
-
+（主要测试了超星学习通）
 脚本文件：
 
 `tampermonkey-sequence-autofill.user.js`
