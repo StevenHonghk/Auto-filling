@@ -1,5 +1,5 @@
 [TAMPERMONKEY.md](https://github.com/user-attachments/files/28460028/TAMPERMONKEY.md)
-# 通用版油猴顺序填空脚本
+# 通用版油猴顺序填空脚本(新v2.9可以支持无api与豆包互动)
 （主要测试了超星学习通）
 脚本文件：
 
